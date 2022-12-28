@@ -118,6 +118,7 @@ print(response.text
 ```
 
 
+
 evelopment
 To set up a development environment for the API, follow these steps:
 
